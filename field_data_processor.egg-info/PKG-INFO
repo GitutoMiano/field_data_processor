@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: field-data-processor
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/GitutoMiano/data_ingestion
+Author: David G
+Author-email: gituto.david7@gmail.com
+License: MIT
